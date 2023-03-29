@@ -1,31 +1,3 @@
-ProfileMe.dev
-New feature:
-Changelog added
-
-
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-Go home
-© 2023 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Support
-Make it easy for people using your products to support you or give donations.
-
-Previous section
-buymeacoffee
-BUY ME A COFFEE:
-yourname
-Previous section
-PREVIEW
-MARKDOWN
-COPY
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devon GIfford
 =====================================================================================================================================
 
@@ -77,4 +49,3 @@ Eager to contribute to team success through hard work, attention to detail & exc
 <a href="http://www.github.com/DevonGifford"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevonGifford&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/DevonGifford"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevonGifford&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
