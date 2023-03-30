@@ -17,10 +17,10 @@ Eager to contribute to team success through hard work, attention to detail & exc
 * 🧠  I'm currently learning TypeScript & Playwright
 * 🤝  I'm open to collaborating on open source projects.
 
-### My Toolbox 🧰
+My Toolbox 🧰
 --------------------------------------
 
-Languages:
+### Languages:
 -----------
 
 <p align="left">
