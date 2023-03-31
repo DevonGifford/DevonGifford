@@ -8,9 +8,9 @@ Eager to contribute to team success through hard work, attention to detail & exc
 
 
 
-* ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") currently based in Madrid, Spain
+* ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Based in Madrid, Spain
 * ![South African Flag](https://i.imgur.com/Uht7KAh.png) South African by birth
-* ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom") British citizen
+* ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom") British citizenship
 
 --------------------------------------
 
