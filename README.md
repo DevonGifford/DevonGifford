@@ -81,6 +81,6 @@ You can contact me at : [devongifford@outlook.com](mailto:devongifford@outlook.c
 <p align="center"> 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DevonGifford"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevonGifford&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/DevonGifford"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevonGifford&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 
-<a href="http://www.github.com/DevonGifford"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevonGifford&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a align="center" href="http://www.github.com/DevonGifford"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevonGifford&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
