@@ -1,11 +1,11 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hello World - my name is Devon GIfford
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hello World, my name is Devon GIfford
 =====================================================================================================================================
 
 Fullstack Developer & Quality Engineer
 --------------------------------------
 
-Eager to contribute to team success through hard work, attention to detail & excellent organizational skills. Always motivated to learn, grow and excel in the web development & software testing industry.
-
+Self taught programmer, with a bachelor in business administration, training in project management, as well as experience in Software Testing for one of the major FAANG companies.  Eager to contribute to team success through hard work, attention to detail & excellent organizational skills. <br/>
+Fully committed to the philosophy of life-long learning 
 
 
 * ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Based in Madrid, Spain
