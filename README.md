@@ -5,18 +5,17 @@
 --------------------------------------
 
 Self taught programmer, with a bachelor in business administration, training in project management, as well as experience in Software Testing for one of the major FAANG companies.  Eager to contribute to team success through hard work, attention to detail & excellent organizational skills. <br/>
-Fully committed to the philosophy of life-long learning 
+<em>Fully committed to the philosophy of life-long learning </em>
 
 
-* ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Based in Madrid, Spain
-* ![South African Flag](https://i.imgur.com/Uht7KAh.png) South African by birth
-* ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom") British citizenship
+  * ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Based in Madrid, Spain
+  * ![South African Flag](https://i.imgur.com/Uht7KAh.png) South African by birth
+  * ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom") British citizenship
 
---------------------------------------
+<br/>
+<p align="center"><em>🤝  (Open to collaborating on open source projects - See my contact details below)   🤝</em></p>
 
-* 🧠  I'm currently learning TypeScript & Playwright
-* 🤝  I'm open to collaborating on open source projects.
-* 
+
 
 ### My Toolbox 🧰
 --------------------------------------
