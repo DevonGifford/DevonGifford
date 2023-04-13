@@ -4,7 +4,8 @@
 ### Fullstack Developer & Quality Engineer
 --------------------------------------
 
-Self taught programmer, with a bachelor in business administration, training in project management, as well as experience in Software Testing with one of the major FAANG companies.  Eager to contribute to team success through hard work, attention to detail & excellent organizational skills. <br/>
+Self taught programmer, with a bachelor in business administration, training in project management, as well as experience in Software Testing with one of the major FAANG companies.  Eager to contribute to team success through hard work, attention to detail & excellent organizational skills. 
+<br/>
 <em>Fully committed to the philosophy of life-long learning </em>
 
 
