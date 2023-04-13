@@ -8,6 +8,7 @@ Self taught programmer, with a bachelor in business administration, training in 
 
 
 <em>Fully committed to the philosophy of life-long learning </em>
+<em>  </em>
 
 
   * ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Based in Madrid, Spain
@@ -15,7 +16,11 @@ Self taught programmer, with a bachelor in business administration, training in 
   * ![United Kingdom](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png "United Kingdom") British citizenship
 
 <br/>
-<p align="center"><em>🤝  (Open to collaborating on open source projects - See my contact details below)   🤝</em></p>
+<p align="center"><em> 
+ "There's no use talking about the problem unless you talk about the solution." <br/>
+ <br/>
+ 🤝  (Open to collaborating on open source projects - See my contact details below)   🤝
+ </em></p>
 
 
 
