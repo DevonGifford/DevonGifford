@@ -23,7 +23,7 @@ Self taught programmer, with a bachelor in business administration, training in 
 
 
 
-## My Toolbox 🧰
+## My Current Tech Stack Toolbox 🧰
 --------------------------------------
 
 **Languages:**
