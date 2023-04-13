@@ -8,7 +8,6 @@ Self taught programmer, with a bachelor in business administration, training in 
 
 
 <em>Fully committed to the philosophy of life-long learning </em>
-<em>  </em>
 
 
   * ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Based in Madrid, Spain
