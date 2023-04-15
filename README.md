@@ -8,8 +8,8 @@
 👨‍🎓  Bachelor in business administration & training in project management.<br>
 🍎  Experience in Software Testing with one of the major FAANG companies.<br>
 
-💪  Eager to contribute to team success through hard work, attention to detail & creative problem solving.<br>
-🧠  _Fully committed to the philosophy of life-long learning._<br>
+Eager to contribute to team success through hard work, attention to detail & creative problem solving.<br>
+_Fully committed to the philosophy of life-long learning._<br>
 
 
 ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain")  Based in Madrid, Spain<br>
