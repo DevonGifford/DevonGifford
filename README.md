@@ -5,10 +5,10 @@
 <h5 align="left">A little about me 😄</h5>
 
 👨‍💻  Self taught programmer.<br>
-👨‍🎓  Bachelor in business administration & training in project management.<br>
+👨‍🎓  Bachelor in Business Administration & training in project management.<br>
 🍎  Experience in Software Testing with one of the major FAANG companies.<br>
 
-Eager to contribute to team success through hard work, attention to detail & creative problem solving.<br>
+Eager to contribute to team success through hard work, attention to detail & creative problem solving.
 _Fully committed to the philosophy of life-long learning._<br>
 
 
