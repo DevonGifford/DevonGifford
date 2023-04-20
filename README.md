@@ -38,7 +38,7 @@ _Fully committed to the philosophy of life-long learning._<br>
  <h3 align="center">Backend:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,postgres,mongodb,mysql,sequelize&perline=4" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,postgres,mongodb,mysql,redis&perline=4" />
   </a>
 </p> 
 
