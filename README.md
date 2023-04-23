@@ -30,7 +30,7 @@ _Fully committed to the philosophy of life-long learning._<br>
 <h3 align="center">Frontend:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,styledcomponents,svg,react,redux,graphql,webpack,vite,babel,apollo&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,react,nextjs,nuxtjs,redux,graphql,webpack,vite,apollo,babel,styledcomponents,svg,bootstrap,&perline=4" />
   </a>
 </p> 
  
@@ -54,7 +54,7 @@ _Fully committed to the philosophy of life-long learning._<br>
    <h3 align="center">Everything Else:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=regex,powershell,docker,aws,vscode,git,github,stackoverflow,wordpress,heroku,netlify,replit&perline=4" />
+    <img src="https://skillicons.dev/icons?i=regex,docker,powershell,bash,vscode,git,github,stackoverflow,aws,wordpress,heroku,netlify,vercel,codepen,replit,devto&perline=4" />
   </a>
 </p> 
 
